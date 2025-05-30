@@ -25,8 +25,8 @@ A feature-rich social media API built with [NestJS](https://nestjs.com/) and [Ty
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/nestjs-social-app.git
-cd nestjs-social-app
+git clone https://github.com/AhzamSalik786/nest-social-api.git
+cd nest-social-api
 
 # Install dependencies
 npm install
